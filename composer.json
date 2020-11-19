@@ -1,5 +1,5 @@
 {
-  "name": "starlinke/kong-php",
+  "name": "liaohanbing/kong-php",
   "description": "A PHP7 compliant library for interacting with the Kong Gateway Admin API.",
   "keywords": ["kong", "kong gateway", "liaohanbing-kong", "api-gateway"],
   "type": "Library",
