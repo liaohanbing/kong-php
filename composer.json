@@ -3,6 +3,12 @@
   "description": "A PHP7 compliant library for interacting with the Kong Gateway Admin API.",
   "keywords": ["kong", "kong gateway", "liaohanbing-kong", "api-gateway"],
   "type": "Library",
+  "repositories": {
+       "liaohanbing/unirest-php": {
+           "type": "git",
+           "url": "https://github.com/liaohanbing/unirest-php.git"
+       }
+  },
   "require": {
     "php": ">=7.0",
     "liaohanbing/unirest-php": "3.*"
