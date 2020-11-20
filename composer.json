@@ -11,7 +11,7 @@
     },
   "require": {
     "php": ">=7.0",
-    "liaohanbing/unirest-php": "^4.0.0"
+    "liaohanbing/unirest-php": "4.*"
   },
   "require-dev": {
     "phpunit/phpunit": "~4.0",
