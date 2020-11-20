@@ -4,14 +4,14 @@
   "keywords": ["kong", "kong gateway", "liaohanbing-kong", "api-gateway"],
   "type": "Library",
   "repositories": {
-        "Mashape/unirest-php": {
+        "mashape/unirest-php": {
             "type": "git",
             "url": "git@github.com:liaohanbing/unirest-php.git"
         }
     },
   "require": {
     "php": ">=7.0",
-    "Mashape/unirest-php": "^4.0.2"
+    "mashape/unirest-php": "^4.0.2"
   },
   "require-dev": {
     "phpunit/phpunit": "~4.0",
